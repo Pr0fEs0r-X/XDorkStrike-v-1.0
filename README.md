@@ -1,4 +1,4 @@
-# DORK_STRIKE v2.5
+# XDORK STRIKE v 1.0
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
