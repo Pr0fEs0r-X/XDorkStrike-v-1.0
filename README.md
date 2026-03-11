@@ -2,6 +2,11 @@
 <img width="500" height="400" alt="drokstrike" src="https://github.com/user-attachments/assets/d85eaa5f-d880-4207-8a81-4014c1f3f942" />
 <br><br>
 <p align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Version-2.5-yellow" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
@@ -85,3 +90,70 @@ Esta herramienta fue diseñada y programada con el objetivo de ofrecer una inter
 ### Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+
+Aquí tienes una propuesta completa para tu archivo `README.md`. Está formateado con Markdown estándar (como el que se usa en GitHub) e incluye los "badges" (insignias) con los iconos y colores oficiales de cada tecnología.
+
+Solo necesitas reemplazar `NOMBRE_DEL_PROYECTO` y la descripción general por la de tu proyecto.
+
+```markdown
+# 🚀 NOMBRE_DEL_PROYECTO
+
+Breve descripción de lo que hace tu proyecto y cuál es su propósito principal.
+
+---
+
+## 🛠️ Tech Stack (Tecnologías Utilizadas)
+
+Este proyecto ha sido construido utilizando tecnologías web modernas y estándares actuales:
+
+<p align="left">
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  </a>
+</p>
+
+### 📋 Detalles de Implementación
+
+*   **HTML5:** Estructura semántica.
+    *   Uso de etiquetas modernas para una mejor accesibilidad y SEO.
+*   **Tailwind CSS:** Sistema de diseño utility-first (CDN).
+    *   Estilizado rápido y responsivo directamente en el marcado.
+*   **Vanilla JavaScript (ES6+):** Lógica de generación y manipulación del DOM.
+    *   Código modular, uso de arrow functions, promesas y manipulación eficiente del DOM sin frameworks pesados.
+
+---
+
+## 🔤 Tipografías
+
+La estética visual del proyecto se apoya en fuentes monoespaciadas modernas para un look técnico y limpio:
+
+*   **Primary Font:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+*   **Secondary Font:** [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
+
+---
+
+## ⚙️ Instalación y Uso
+
+1.  Clona el repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/tu-proyecto.git
+    ```
+2.  Abre el archivo `index.html` en tu navegador.
+    *   *Nota: Al usar Tailwind via CDN, no requiere pasos de compilación complejos.*
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT.
+```
