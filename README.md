@@ -20,6 +20,24 @@
 **DORK_STRIKE** es una herramienta de seguridad web con estética de terminal CRT (phosphor green), diseñada para asistir a investigadores de seguridad y pentesters en la generación masiva de **Google Dorks**.
 
 La aplicación permite introducir un dominio objetivo y generar automáticamente más de 50 consultas de búsqueda avanzadas (dorks) categorizadas y con niveles de severidad. Estas consultas ayudan a identificar archivos expuestos, paneles de administración, información sensible y posibles vectores de vulnerabilidad en el dominio especificado.
+<BR><BR>
+<img width="900" height="400" alt="DROKSTRIKEDDD" src="https://github.com/user-attachments/assets/94165503-ce23-41f0-a69f-abd549756e83" />
+<BR> <BR>
+### La base de datos actual incluye una colección completa de Google Dorks categorizados por tipo de vulnerabilidad o exposición de información.
+
+| Categoría | Cantidad | Detalle |
+| :--- | :---: | :--- |
+| **XSS** | 132 | Vectores de Cross-Site Scripting |
+| **FILES** | 108 | Archivos sensibles y exposición de directorios (Originales + 105 nuevos) |
+| **SQLi** | 102 | Parámetros de Inyección SQL (Originales + 91 nuevos) |
+| **RFI/LFI** | 100 | Inclusión Remota/Local de Archivos (Originales + 94 nuevos) |
+| **JOOMLA** | 40 | Vulnerabilidades específicas de Joomla |
+| **SENSITIVE** | 3 | Exposición de información sensible |
+| **ADMIN** | 2 | Páginas de administración |
+| **DIRECTORY** | 1 | Listados de directorios |
+| **TOTAL** | **488** | **Total de Dorks Registrados** |
+
+## destinada únicamente para investigaciones de seguridad autorizadas ""$$$ AVISO $$""#
 
 ---
 
@@ -156,4 +174,9 @@ La estética visual del proyecto se apoya en fuentes monoespaciadas modernas par
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
+
+
+## 📊 Estadísticas de la Base de Datos
+
+ines educativos. El autor no se hace responsable del mal uso o los daños causados por esta herramienta. Asegúrate siempre de tener permiso antes de probar cualquier objetivo.
 ```
