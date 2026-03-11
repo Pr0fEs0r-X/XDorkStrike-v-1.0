@@ -1,5 +1,6 @@
 # XDORK STRIKE v 1.0
-
+<img width="500" height="400" alt="drokstrike" src="https://github.com/user-attachments/assets/d85eaa5f-d880-4207-8a81-4014c1f3f942" />
+<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Version-2.5-yellow" alt="Version">
